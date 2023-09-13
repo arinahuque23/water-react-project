@@ -1,0 +1,14 @@
+.bottle{
+    border: 2px solid rgba(44, 42, 42, 0.831);
+    padding: 20px;
+    border-radius: 15px;
+}
+.bottle img{
+    width: 200px;
+
+}
+
+.bottle button{
+    background-color: rgb(71, 69, 69);
+    color: aliceblue;
+}
